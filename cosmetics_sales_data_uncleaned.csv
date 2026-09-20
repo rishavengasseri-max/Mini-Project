@@ -1,0 +1,514 @@
+Order ID,Date,Sales Person,Country,Region,Product,Sales Channel,Boxes Shipped,Unit Price ($),Amount ($)
+ORD-10340,2022-01-08,Lucas Verma,AUSTRALIA,Oceania,  Hydrating Face Serum  ,Distributor,10,11.98,119.82
+ORD-10041,2022-08-26,Ananya Gupta,NEW ZEALAND,Oceania,Vitamin C Cream,Wholesale,147,34.24,5032.73
+ord10187,2022-07-21,Ethan Reddy,Canada,North America,Niacinamide Toner,Retail,225,22.06,4964.03
+ORD-10478,"January 04, 2022",Olivia D'Souza,  India  ,Asia,UNDER EYE CREAM,distributor,499,30.09,15013.48
+ORD-10031,04-02-2022,liam patel,AUSTRALIA,oceania,Niacinamide Toner,Retail,213,38.23,8143.6
+ORD-10174,2022-06-10,Mason Kapoor,USA,NORTH AMERICA,  Hydrating Face Serum  ,DISTRIBUTOR,224,13.06,2925.47
+ORD-10051,2022-05-02,olivia d'souza,USA,North America,Hydrating Face Serum,Distributor,483,44.93,21701.44
+ORD-10119,2022-06-02,SOPHIA NAIR,India,Asia,BODY BUTTER CREAM,,418,36.01,15051.5
+ORD-10189,2022-08-28,ISABELLA ROY,India,Asia,Salicylic Acid Cleanser,Wholesale,321,47.56,15267.53
+ORD-10397,2022-07-07,Isabella Roy,USA,North America,Vitamin C Cream,Online,425,38.56,16390.03
+ORD-10050,2022-08-13,noah mehta,New Zealand,Oceania,Tea Tree Moisturizer,online,373,27.33,10192.85
+ORD-10236,2022-01-23,Lucas Verma,USA,north america,Vitamin C Cream,Distributor,364,19.14,6966.13
+ORD-10054,2022-06-03,MASON KAPOOR,New Zealand,oceania,BODY BUTTER CREAM,DISTRIBUTOR,361,43.86,15834.45
+ORD-10127,2022-08-19,mason kapoor,Canada,North America,spf 50 sunscreen,Retail,232,26.61,6174.38
+ORD-10153,"May 29, 2022",Liam Patel,New Zealand,OCEANIA,hair repair oil,WHOLESALE,85,44.85,3812.45
+ORD-10007,04-29-2022,Ananya Gupta,NEW ZEALAND,oceania,ROSE WATER TONER,Wholesale,19,43.84,832.92
+ORD-10355,2022-06-13,Liam Patel,UK,Europe,Vitamin C Cream,  Online  ,248,19.78,4905.1
+ORD-10215,2022-04-29,Noah Mehta,UK,EUROPE,  Hydrating Face Serum  ,ONLINE,11,,527.39
+ORD-10472,2022-07-15,Noah Mehta,UK,EUROPE,under eye cream,Online,496,31.4,15576.0
+ORD-10200,2022-07-07,mason kapoor,  UK  ,Europe,ANTI-AGING SERUM,,249,35.29,8787.8
+ORD-10391,2022-08-23,sophia nair,new zealand,OCEANIA,Under Eye Cream,  Online  ,422,23.73,10014.34
+ORD-10492,2022-02-03,ANANYA GUPTA,australia,Oceania,Hydrating Face Serum,  Distributor  ,499,22.68,11318.86
+ORD-10308,2022-03-09,Liam Patel,USA,North America,  Body Butter Cream  ,WHOLESALE,342,24.81,8483.48
+ORD-10430,2022-01-25,Sophia Nair,CANADA,NORTH AMERICA,Anti-Aging Serum,Online,69,22.03,1519.93
+ORD-10449,2022-08-17,Noah Mehta,Canada,north america,Hair Repair Oil,Retail,45,14.09,633.85
+ORD-10371,2022-05-07,Ananya Gupta,New Zealand,Oceania,Hydrating Face Serum,Retail,420,29.91,12563.44
+ORD-10238,2022-08-24,  Isabella Roy  ,Canada,North America,Vitamin C Cream,  Wholesale  ,73,37.48,2735.77
+ORD-10247,2022-06-16,ISABELLA ROY,New Zealand,Oceania,Hydrating Face Serum,ONLINE,306,34.14,10445.39
+ORD-10218,2022-01-08,Ethan Reddy,UK,Europe,spf 50 sunscreen,Retail,175,24.68,4318.42
+ORD-10047,2022-05-07,ethan reddy,canada,North America,charcoal face wash,Distributor,324,35.8,11599.9
+ORD-10264,2022-05-18,Ethan Reddy,Australia,Oceania,  Hydrating Face Serum  ,online,257,46.66,
+ORD-10087,2022-08-26,Isabella Roy,Australia,Oceania,SPF 50 Sunscreen,Online,73,12.21,891.11
+ORD-10072,2022-01-13,Noah Mehta,  USA  ,north america,aloe vera gel,  Wholesale  ,456,35.71,16283.5
+ORD-10456,2022-05-07,Mason Kapoor,  New Zealand  ,oceania,BODY BUTTER CREAM,distributor,202,13.53,2733.05
+ORD-10195,2022-02-21,NOAH MEHTA,New Zealand,Oceania,Salicylic Acid Cleanser,  Retail  ,363,24.57,8919.5
+ORD-10443,19/06/2022,Olivia D'Souza,Australia,OCEANIA,Hydrating Face Serum,WHOLESALE,455,29.18,"$13,278.82"
+ORD-10114,2022-05-19,Isabella Roy,Canada,North America,Hair Repair Oil,  Retail  ,150,37.04,5555.52
+ORD-10008,2022-07-15,,NEW ZEALAND,Oceania,,Retail,36,27.72,997.96
+ORD-10126,2022-01-30,,New Zealand,oceania,FACE SHEET MASKS,Retail,487,47.54,23152.04
+ORD-10213,,Ananya Gupta,  India  ,Asia,Tea Tree Moisturizer,distributor,269,14.21,3823.54
+ORD-10137,2022-08-13,  Lucas Verma  ,Australia,Oceania,SPF 50 Sunscreen,Wholesale,73,11.76,858.68
+ORD-10267,2022-05-31,Sophia Nair,New Zealand,OCEANIA,Hair Repair Oil,Retail,118,24.45,2884.52
+ORD-10178,2022-06-01,Ananya Gupta,UK,Europe,Hydrating Face Serum,Distributor,265,24.09,6384.11
+ORD-10474,2022-03-17,Isabella Roy,UK,europe,niacinamide toner,retail,499,33.59,16762.21
+ORD-10288,2022-06-23,isabella roy,USA,north america,Charcoal Face Wash,Retail,11,12.37,
+ORD-10317,2022-04-17,  Liam Patel  ,  Canada  ,  North America  ,Salicylic Acid Cleanser,distributor,321,38.01,12202.64
+ORD-10274,2022-06-24,Sophia Nair,usa,North America,hair repair oil,Wholesale,296,45.64,13509.42
+ORD-10033,03/08/2022,  Liam Patel  ,Canada,North America,Lip Balm Pack,Retail,362,44.82,16223.13
+ORD-10441,2022-05-10,Ethan Reddy,uk,europe,FACE SHEET MASKS,Retail,99999,43.94,10720.46
+ORD-10180,2022-04-27,Liam Patel,australia,OCEANIA,  Aloe Vera Gel  ,RETAIL,296,21.37,6324.87
+ORD-10413,2022-04-10,olivia d'souza,INDIA,  Asia  ,VITAMIN C CREAM,Wholesale,396,,16265.32
+ORD-10360,2022-06-19,Isabella Roy,Australia,OCEANIA,rose water toner,distributor,152,35.73,5431.35
+ORD-10155,2022-05-09,Ananya Gupta,australia,Oceania,Tea Tree Moisturizer,Online,167,49.86,8326.18
+ORD-10295,2022-02-18,Lucas Verma,New Zealand,Oceania,body butter cream,Online,286,33.73,9645.48
+ORD-10290,2022-04-08,,Australia,Oceania,Charcoal Face Wash,,332,14.52,4819.15
+ORD-10212,2022-07-31,Noah Mehta,Canada ,North America,  Rose Water Toner  ,Retail,,23.5,4111.71
+ORD-10329,2022-04-15,Lucas Verma,Australia,oceania,HAIR REPAIR OIL,  Online  ,20,29.28,585.65
+ORD-10217,2022-01-12,Ava Sharma,,Oceania,Niacinamide Toner,Distributor,38,15.63,593.94
+ORD-10400,2022-02-10,  Liam Patel  ,UK,Europe,Lip Balm Pack,WHOLESALE,61,26.22,1599.61
+ORD-10045,2022-05-29,Ethan Reddy,USA,north america,Hydrating Face Serum,Online,298,29.0,8642.86
+ORD-10101,2022-04-09,liam patel,  India  ,Asia,Niacinamide Toner,Retail,204,14.18,2893.74
+ORD-10049,07-13-2022,Mason Kapoor,NEW ZEALAND,oceania,Lip Balm Pack,Retail,312,30.72,9583.51
+ORD-10399,2022-02-13,Noah Mehta,,Oceania,hair repair oil,distributor,96,26.9,2582.07
+ORD-10372,2022-06-21,Ananya Gupta,USA,  North America  ,Lip Balm Pack,Retail,143,34.85,4983.24
+ORD-10473,2022-03-05,Olivia D'Souza,New Zealand,Oceania,Face Sheet Masks,Retail,337,15.7,5290.73
+ORD-10421,2022-02-12,Mason Kapoor,India,Asia,  Charcoal Face Wash  ,Retail,171,18.82,3218.49
+ORD-10349,2022-04-12,Mason Kapoor,India,ASIA,Anti-Aging Serum,RETAIL,474,10.62,5032.22
+ORD-10104,2022-04-07,NOAH MEHTA,UK,Europe,  Charcoal Face Wash  ,WHOLESALE,149,27.27,4063.64
+ORD-10380,06-06-2022,Olivia D'Souza,U.S.A.,NORTH AMERICA,aloe vera gel,Wholesale,135,45.3,6115.85
+ORD-10427,2022-06-13,ava sharma,USA,NORTH AMERICA,Vitamin C Cream,wholesale,408,34.68,14149.02
+ORD-10094,2022-02-19,Olivia D'Souza,UK,Europe,Under Eye Cream,RETAIL,309,25.65,7925.54
+ORD-10359,2022-04-05,Noah Mehta,USA,North America,Face Sheet Masks,Online,193,14.76,2848.07
+ORD-10116,2022-04-06,sophia nair,,North America,SPF 50 SUNSCREEN,Online,456,27.13,12369.81
+ORD-10406,2022-02-02,Liam Patel,UK,Europe,salicylic acid cleanser,Retail,13,36.71,477.17
+ORD-10068,2022-04-19,AVA SHARMA,India,Asia,hair repair oil,Retail,434,20.61,8946.01
+ORD-10058,2022-03-23,Noah Mehta,New Zealand,oceania,Rose Water Toner,Online,156,11.19,1745.79
+ORD-10422,2022-05-16,Lucas Verma,Canada,North America,  Anti-Aging Serum  ,Online,23,34.35,790.07
+ORD-10235,,sophia nair,new zealand,  Oceania  ,face sheet masks,Distributor,385,,-100.0
+ORD-10100,,Liam Patel,India,ASIA,Tea Tree Moisturizer,Distributor,89,23.89,2126.3
+ORD-10460,2022-04-16,Lucas Verma,,NORTH AMERICA,,Online,260,41.49,10786.93
+ORD-10004,2022-08-26,Ananya Gupta,New Zealand,Oceania,Salicylic Acid Cleanser,Retail,144,20.6,2966.47
+ORD-10156,2022-01-31,Isabella Roy,New Zealand,Oceania,Salicylic Acid Cleanser,retail,120,43.15,5177.5
+ORD-10310,"January 20, 2022",LUCAS VERMA,United Kingdom,Europe,  Salicylic Acid Cleanser  ,  Online  ,343,13.05,4476.0
+ORD-10323,2022-01-03,Ananya Gupta,New Zealand,Oceania,Vitamin C Cream,,201,14.3,2875.15
+ORD-10157,2022-07-02,Ava Sharma,India,ASIA,Body Butter Cream,RETAIL,362,33.67,12188.95
+ORD-10462,2022-02-04,Sophia Nair,australia,Oceania,Face Sheet Masks,wholesale,338,36.14,12214.02
+ORD-10300,2022-07-07,lucas verma,  India  ,  Asia  ,face sheet masks,ONLINE,239,42.23,10092.43
+ORD-10085,2022-08-29,Sophia Nair,UK,Europe,UNDER EYE CREAM,RETAIL,14,40.7,569.78
+ORD-10365,03/07/2022,Noah Mehta,,  Europe  ,lip balm pack,Online,372,37.6,13987.08
+ORD-10352,2022-01-04,OLIVIA D'SOUZA,canada,north america,Anti-Aging Serum,Retail,178,48.93,8709.22
+ORD-10209,2022-06-15,ava sharma,  New Zealand  ,Oceania,SPF 50 Sunscreen,Online,171,42.22,7220.46
+ORD-10092,2022-07-23,Mason Kapoor,USA,North America,Niacinamide Toner,Distributor,218,43.35,9450.04
+ORD-10029,06-12-2022,liam patel,usa,North America,Under Eye Cream,RETAIL,78,36.03,2810.34
+ORD-10052,2022-08-28,Sophia Nair,India,asia,Hair Repair Oil,distributor,366,17.75,6496.58
+ORD-10103,2022-07-05,ethan reddy,India,asia,LIP BALM PACK,Online,169,48.96,8273.51
+ord10232,2022-08-10,Ethan Reddy,USA,NORTH AMERICA,Niacinamide Toner,ONLINE,236,42.89,10122.81
+ORD-10112,2022-03-22,Isabella Roy,USA,North America,Rose Water Toner,Retail,402,48.7,19576.41
+ORD-10484,2022-04-21,Liam Patel,Australia,  Oceania  ,under eye cream,Online,22,25.08,
+ORD-10142,2022-01-02,Olivia D'Souza,  India  ,Asia,anti-aging serum,retail,433,21.69,9390.28
+ORD-10252,2022-05-16,Noah Mehta,India,Asia,VITAMIN C CREAM,Distributor,41,15.4,631.36
+ORD-10246,2022-04-30,ETHAN REDDY,new zealand,Oceania,  Lip Balm Pack  ,Retail,36,19.69,708.87
+ORD-10270,2022-05-09,ethan reddy,USA,NORTH AMERICA,Niacinamide Toner,Distributor,108,23.93,2584.15
+ORD-10073,2022-01-24,Ava Sharma,,NORTH AMERICA,  Tea Tree Moisturizer  ,Online,402,25.15,10108.84
+ORD-10283,2022-06-24,Olivia D'Souza,usa,North America,Anti-Aging Serum,  Retail  ,194,25.43,4934.32
+ORD-10207,10/06/2022,ava sharma,AUSTRALIA,Oceania,TEA TREE MOISTURIZER,Online,146,43.77,6390.52
+ORD-10203,2022-03-20,Olivia D'Souza,CANADA,North America,under eye cream,wholesale,27,31.17,
+ORD-10318,2022-01-23,Ava Sharma,uk,Europe,SPF 50 Sunscreen,Retail,366,17.27,6319.71
+ORD-10381,2022-07-09,  Sophia Nair  ,New Zealand,oceania,spf 50 sunscreen,Online,317,37.84,11995.3
+ORD-10165,2022-06-21,,Australia,  Oceania  ,tea tree moisturizer,Retail,424,38.9,16495.37
+ORD-10003,,  Ananya Gupta  ,India,ASIA,Body Butter Cream,Online,264,21.21,5599.68
+ORD-10163,2022-05-02,Ava Sharma,UK,europe,rose water toner,Retail,308,49.32,15189.5
+ORD-10201,2022-07-01,LUCAS VERMA,New Zealand,oceania,Under Eye Cream,Retail,423,38.42,16253.66
+ORD-10276,2022-06-05,Isabella Roy,USA,North America,anti-aging serum,Retail,56,20.06,1123.46
+ORD-10428,2022-08-12,Ava Sharma,INDIA,Asia,Face Sheet Masks,Retail,476,37.83,18008.85
+ORD-10192,2022-07-16,Ethan Reddy,USA,North America,Under Eye Cream,Online,81,39.57,3205.0
+ORD-10452,2022-02-11,ava sharma,UK,Europe,Hair Repair Oil,  Wholesale  ,310,40.42,12531.47
+ORD-10467,2022-07-04,Noah Mehta,Australia,Oceania,body butter cream,Online,267,23.28,6216.41
+ORD-10172,2022-07-16,  Sophia Nair  ,UK,Europe,HYDRATING FACE SERUM,Retail,318,46.61,14822.36
+ORD-10081,2022-03-29,SOPHIA NAIR,Canada,north america,SPF 50 Sunscreen,online,322,21.54,6936.38
+ORD-10291,2022-08-21,LIAM PATEL,Canada,North America,Niacinamide Toner,online,136,0.0,5661.96
+ORD-10175,2022-01-10,Lucas Verma,CANADA,north america,TEA TREE MOISTURIZER,Online,452,43.02,19444.09
+ORD-10011,2022-01-27,OLIVIA D'SOUZA,Australia,  Oceania  ,Body Butter Cream,Online,87,12.87,1119.66
+ORD-10469,2022-07-17,  Sophia Nair  ,UK,europe,  Hydrating Face Serum  ,RETAIL,214,39.9,8538.11
+ORD-10302,2022-01-31,Ethan Reddy,AUSTRALIA,Oceania,VITAMIN C CREAM,WHOLESALE,264,15.75,4157.41
+ORD-10064,2022-03-21,Isabella Roy,India,  Asia  ,Vitamin C Cream,Wholesale,264,24.77,6538.2
+ORD-10065,2022-07-11,Ethan Reddy,  USA  ,North America,Rose Water Toner,Online,406,33.56,13625.75
+ORD-10062,2022-03-23,noah mehta,USA,North America,vitamin c cream,Retail,248,32.88,8154.9
+ORD-10454,2022-04-28,Ava Sharma,New Zealand,Oceania,  Vitamin C Cream  ,wholesale,168,10.0,1679.45
+ORD-10322,2022-04-22,Liam Patel,Canada,north america,tea tree moisturizer,Distributor,376,25.72,9669.71
+ORD-10412,2022-04-08,Ava Sharma,Canada,North America,Hydrating Face Serum,Retail,330,12.34,4070.56
+ORD-10407,2022-07-19,Ethan Reddy,UK,europe,Hair Repair Oil,Wholesale,233,46.78,10900.43
+ord10082,2022-03-04,OLIVIA D'SOUZA,New Zealand,Oceania,UNDER EYE CREAM,RETAIL,180,13.46,2422.62
+ORD-10009,2022-02-04,Isabella Roy,New Zealand,  Oceania  ,Lip Balm Pack,ONLINE,466,16.64,7754.36
+ORD-10368,2022-05-05,Liam Patel,USA,North America,Under Eye Cream,Distributor,206,18.43,3795.64
+ORD-10280,2022-06-27,Noah Mehta,New Zealand,Oceania,Body Butter Cream,Distributor,394,24.58,"$9,682.74"
+ORD-10281,2022-01-19,Isabella Roy,Australia,Oceania,Anti-Aging Serum,  Retail  ,232,13.97,3241.7
+ORD-10489,2022-04-29,Lucas Verma,Australia,Oceania,anti-aging serum,ONLINE,196,31.8,6231.99
+ORD-10097,2022-07-15,Ananya Gupta,Australia,Oceania,hair repair oil,Retail,424,46.84,19861.82
+ORD-10086,2022-03-15,olivia d'souza,UK,Europe,Hydrating Face Serum,RETAIL,124,33.09,4103.17
+ORD-10143,2022-08-26,NOAH MEHTA,  New Zealand  ,OCEANIA,SPF 50 Sunscreen,Online,279,12.07,3368.14
+ORD-10282,2022-03-29,liam patel,India,asia,Tea Tree Moisturizer,  Retail  ,233,46.72,10885.26
+ORD-10032,2022-07-10,  Mason Kapoor  ,UK,Europe,Body Butter Cream,distributor,340,37.9,12885.94
+ORD-10122,2022-04-11,ava sharma,Canada,North America,Aloe Vera Gel,Distributor,360,34.51,12424.63
+ORD-10416,2022-04-01,Noah Mehta,,Oceania,SPF 50 Sunscreen,Distributor,,26.58,8026.31
+ORD-10038,11/05/2022,Lucas Verma,UK,Europe,Hydrating Face Serum,online,357,11.88,4242.56
+ORD-10181,2022-01-19,liam patel,USA,North America,Anti-Aging Serum,online,155,29.63,4592.38
+ORD-10464,2022-03-27,Olivia D'Souza,uk,europe,Anti-Aging Serum,,287,,10623.87
+ord10138,2022-05-01,ANANYA GUPTA,india,asia,Hair Repair Oil,Wholesale,390,26.62,10382.3
+ORD-10403,2022-08-02,  Olivia D'Souza  ,USA,north america,SPF 50 SUNSCREEN,Online,113,24.28,2743.34
+ORD-10367,2022-08-01,Ananya Gupta,,Europe,  Tea Tree Moisturizer  ,Wholesale,487,23.3,11345.7
+ORD-10286,2022-07-10,  Ananya Gupta  ,CANADA,North America,Salicylic Acid Cleanser,Online,268,35.68,9561.31
+ORD-10345,2022-03-26,Isabella Roy,India,Asia,Charcoal Face Wash,Wholesale,64,41.1,2630.52
+ORD-10048,2022-05-27,Liam Patel,New Zealand,Oceania,SPF 50 Sunscreen,Distributor,331,47.15,15606.61
+ORD-10176,2022-03-09,Ethan Reddy,UK,Europe,Hair Repair Oil,retail,176,48.81,8591.2
+ORD-10070,2022-04-01,Ethan Reddy,Canada,North America,Under Eye Cream,Retail,274,34.21,9372.51
+ORD-10016,2022-01-04,LIAM PATEL,Canada,North America,Aloe Vera Gel,Retail,83,46.99,3900.37
+ORD-10436,2022-07-25,Sophia Nair,  New Zealand  ,oceania,  Tea Tree Moisturizer  ,Retail,378,18.7,7068.94
+ORD-10402,2022-05-30,Sophia Nair,India,ASIA,SPF 50 SUNSCREEN,wholesale,389,34.72,13506.08
+ORD-10037,2022-05-27,ava sharma,  New Zealand  ,OCEANIA,  Vitamin C Cream  ,online,266,45.91,12213.24
+ORD-90003,2022-06-15,Ava Sharma,  UK  ,europe,Vitamin C Cream,  Retail  ,456,36.06,16445.03
+ORD-10343,"July 29, 2022",Ananya Gupta,New Zealand,Oceania,BODY BUTTER CREAM,Wholesale,163,38.43,6264.79
+ORD-10168,2022-08-06,Isabella Roy,Canada,North America,Hydrating Face Serum,Wholesale,375,43.8,16425.05
+ORD-10059,2022-03-25,LIAM PATEL,new zealand,Oceania,Charcoal Face Wash,Online,198,36.71,7268.2
+ORD-10108,2022-08-30,Olivia D'Souza,UK,europe,TEA TREE MOISTURIZER,  Retail  ,183,26.06,4768.41
+ORD-10366,2022-07-18,Olivia D'Souza,UK,Europe,Niacinamide Toner,DISTRIBUTOR,457,39.15,17890.38
+ORD-10401,2022-05-10,Ananya Gupta,Australia,Oceania,Aloe Vera Gel,Online,428,31.75,13588.98
+ORD-10297,2022-02-28,  Ava Sharma  ,New Zealand,Oceania,SPF 50 Sunscreen,Online,393,26.63,10465.99
+ORD-10294,2022-07-27,Noah Mehta,INDIA,Asia,Niacinamide Toner,Online,40,29.46,1178.22
+ORD-10221,24/04/2022,Ethan Reddy,USA,north america,ALOE VERA GEL,Wholesale,224,23.27,5212.22
+ORD-10093,2022-02-14,  Noah Mehta  ,UK,EUROPE,Face Sheet Masks,Retail,293,22.04,6457.54
+ORD-10491,2022-05-01,sophia nair,  New Zealand  ,Oceania,Tea Tree Moisturizer,Retail,118,34.71,4095.88
+ORD-10305,2022-01-27,Ethan Reddy,New Zealand,OCEANIA,Aloe Vera Gel,WHOLESALE,246,22.83,5616.37
+ORD-10266,2022-05-28,Ava Sharma,new zealand,Oceania,  Tea Tree Moisturizer  ,Distributor,190,,7024.11
+ORD-10148,2022-06-01,olivia d'souza,U.S.A.,North America,face sheet masks,,300,36.77,11031.64
+ORD-10135,2022-02-11,Sophia Nair,uk,Europe,  SPF 50 Sunscreen  ,,350,43.64,15274.46
+ORD-10337,2022-03-11,Olivia D'Souza,UK,europe,Hydrating Face Serum,Online,199,40.15,7990.6
+ORD-10075,2022-07-08,liam patel,  USA  ,North America,Anti-Aging Serum,ONLINE,51,25.65,1308.08
+ORD-10389,2022-01-18,noah mehta,  UK  ,Europe,aloe vera gel,,233,20.82,4850.33
+ORD-10485,2022-05-27,Noah Mehta,Australia,Oceania,ALOE VERA GEL,retail,14,39.16,548.27
+ORD-10259,2022-01-31,Olivia D'Souza,canada,NORTH AMERICA,  Tea Tree Moisturizer  ,,161,28.16,4534.5
+ORD-10486,2022-06-10,lucas verma,canada,North America,Lip Balm Pack,Online,214,28.41,0.0
+ORD-10376,2022-08-19,Noah Mehta,New Zealand,OCEANIA,Body Butter Cream,distributor,17,19.72,335.22
+ORD-10395,2022-04-22,Liam Patel,USA,North America,  SPF 50 Sunscreen  ,DISTRIBUTOR,44,40.55,1784.4
+ORD-10130,2022-08-13,Mason Kapoor,Australia,Oceania,  Vitamin C Cream  ,online,475,33.76,16037.03
+ORD-10013,2022-04-06,ava sharma,USA,north america,Hair Repair Oil,Distributor,254,47.83,12147.98
+ORD-10305,2022-01-27,Ethan Reddy,New Zealand,OCEANIA,Aloe Vera Gel,WHOLESALE,246,22.83,5616.37
+ORD-10334,2022-06-02,Sophia Nair,UK,europe,SPF 50 Sunscreen,wholesale,142,49.72,7060.26
+ORD-10500,2022-02-01,,india,Asia,NIACINAMIDE TONER,Wholesale,351,18.19,6383.29
+ORD-10173,2022-03-27,,  New Zealand  ,OCEANIA,Rose Water Toner,retail,225,15.24,3428.81
+ORD-10313,2022-06-03,OLIVIA D'SOUZA,australia,Oceania,SPF 50 Sunscreen,Distributor,411,41.33,16987.7
+ORD-10324,2022-03-11,Sophia Nair,india,asia,Anti-Aging Serum,Distributor,447,31.8,14214.55
+ORD-10396,2022-05-22,Ananya Gupta,INDIA,ASIA,NIACINAMIDE TONER,  Retail  ,139,39.63,5508.55
+ORD-10463,2022-08-01,mason kapoor,India,Asia,Face Sheet Masks,Retail,31,10.83,$335.77
+ORD-10005,2022-05-19,  Sophia Nair  ,  UK  ,europe,Body Butter Cream,RETAIL,484,14.11,6828.68
+ORD-10358,30/08/2022,Olivia D'Souza,New Zealand,OCEANIA,CHARCOAL FACE WASH,Retail,81,15.74,1274.86
+ORD-10301,2022-07-11,Ethan Reddy,New Zealand,Oceania,hair repair oil,Wholesale,84,28.51,2394.9
+ORD-10145,2022-06-11,Sophia Nair,new zealand,  Oceania  ,Face Sheet Masks,Wholesale,23,16.59,381.6
+ORD-10260,2022-08-24,Ananya Gupta,UK,Europe,  Hydrating Face Serum  ,,69,14.89,1027.1
+ORD-10055,2022-05-17,Noah Mehta,UK,Europe,Lip Balm Pack,Online,489,15.34,7501.02
+ORD-10196,2022-04-06,MASON KAPOOR,UK,Europe,Vitamin C Cream,Wholesale,499,46.66,23284.44
+ORD-10164,2022-01-27,ANANYA GUPTA,USA,North America,Anti-Aging Serum,Online,189,37.44,7077.02
+ORD-10210,"February 24, 2022",noah mehta,Canada,NORTH AMERICA,SPF 50 Sunscreen,Retail,120,29.09,3490.94
+ORD-10432,2022-03-02,sophia nair,USA,North America,Anti-Aging Serum,Retail,393,17.96,7060.12
+ORD-10234,03-19-2022,Ava Sharma,uk,  Europe  ,,WHOLESALE,18,20.31,365.6
+ORD-10384,2022-05-19,Sophia Nair,UK,Europe,  Charcoal Face Wash  ,  Wholesale  ,250,16.61,"$4,152.01"
+ORD-10303,2022-06-28,MASON KAPOOR,australia,Oceania,tea tree moisturizer,Retail,140,28.47,"$3,986.46"
+ORD-10277,2022-03-30,Ethan Reddy,usa,north america,Niacinamide Toner,DISTRIBUTOR,495,36.75,18188.8
+ORD-10107,2022-03-10,  Ava Sharma  ,,North America,SPF 50 Sunscreen,  Retail  ,471,36.09,16996.07
+ORD-10320,2022-08-03,  Liam Patel  ,India,Asia,Tea Tree Moisturizer,online,412,13.13,5408.77
+ORD-10394,2022-02-17,Ananya Gupta,India,ASIA,SPF 50 Sunscreen,  Online  ,155,54.25,8408.57
+ORD-10025,2022-04-13,Sophia Nair,  Australia  ,Oceania,Niacinamide Toner,  Distributor  ,162,36.78,5958.48
+ORD-10044,05-17-2022,Liam Patel,  USA  ,North America,  Anti-Aging Serum  ,Wholesale,242,43.19,10452.26
+ORD-10309,2022-05-06,Olivia D'Souza,  New Zealand  ,Oceania,Salicylic Acid Cleanser,Retail,,26.79,723.29
+ORD-10325,2022-03-05,Mason Kapoor,INDIA,Asia,Body Butter Cream,Online,29,41.22,1195.52
+ORD-10272,2022-06-03,sophia nair,new zealand,Oceania,LIP BALM PACK,ONLINE,12,46.64,559.73
+ORD-10346,2022-08-28,Olivia D'Souza,USA,North America,SPF 50 Sunscreen,RETAIL,251,20.02,5024.53
+ORD-10083,2022-01-13,Lucas Verma,USA,north america,ANTI-AGING SERUM,ONLINE,366,46.69,17090.34
+ORD-10167,06-05-2022,noah mehta,australia,  Oceania  ,UNDER EYE CREAM,Retail,388,33.29,12915.63
+ORD-10223,2022-08-27,Ananya Gupta,UK,EUROPE,  Anti-Aging Serum  ,Online,16,27.13,434.03
+ORD-10447,2022-05-01,Noah Mehta,AUSTRALIA,Oceania,Rose Water Toner,Distributor,108,26.02,2810.11
+ORD-10125,2022-08-30,  Ananya Gupta  ,India,Asia,  Charcoal Face Wash  ,retail,119,48.78,5804.87
+ORD-10419,2022-04-09,Isabella Roy,USA,north america,Aloe Vera Gel,Distributor,322,36.94,11893.79
+ORD-10102,2022-04-17,Isabella Roy,Australia,Oceania,TEA TREE MOISTURIZER,online,283,47.47,13434.96
+ORD-10445,2022-04-30,Olivia D'Souza,USA,North America,Face Sheet Masks,Distributor,487,42.1,20503.5
+ORD-10077,2022-04-25,Isabella Roy,australia,OCEANIA,NIACINAMIDE TONER,Retail,152,34.36,5223.33
+ORD-10133,19/04/2022,  Olivia D'Souza  ,Canada,NORTH AMERICA,Under Eye Cream,distributor,434,43.85,19030.11
+ORD-90002,2022-05-10,Ethan Reddy,uk,europe,FACE SHEET MASKS,Retail,244,43.94,10720.46
+ORD-10151,,Ava Sharma,India,Asia,spf 50 sunscreen,Retail,189,39.81,7524.98
+ORD-90004,2022-07-30,Liam Patel,Australia,oceania,Face Sheet Masks,  Wholesale  ,101,21.04,2124.81
+ORD-10027,2022-04-11,,Australia,Oceania,Charcoal Face Wash,Retail,18,17.48,314.68
+ORD-10341,2022-01-02,Sophia Nair,USA,north america,ANTI-AGING SERUM,Retail,377,33.29,12551.57
+ORD-10468,2022-07-01,Mason Kapoor,india ,Asia,Aloe Vera Gel,Distributor,268,19.67,5271.16
+ORD-10113,06-20-2022,Sophia Nair,USA,  North America  ,Lip Balm Pack,RETAIL,235,20.53,4824.94
+ORD-10307,2022-07-27,Mason Kapoor,australia,Oceania,Niacinamide Toner,Online,109,39.86,4344.35
+ORD-10483,2022-04-27,liam patel,Australia,  Oceania  ,Under Eye Cream,  Retail  ,493,30.19,14881.24
+ORD-10375,2022-02-26,ava sharma,Canada,  North America  ,  Tea Tree Moisturizer  ,Online,276,41.47,11444.43
+ORD-10028,2022-06-18,Mason Kapoor,  Australia  ,  Oceania  ,anti-aging serum,distributor,91,15.85,1442.65
+ORD-10263,2022-04-03,Mason Kapoor,UK,Europe,Hydrating Face Serum,Retail,433,13.4,5802.73
+ORD-10379,,noah mehta,NEW ZEALAND,OCEANIA,SPF 50 SUNSCREEN,Online,41,15.4,631.31
+ORD-10111,2022-01-26,Liam Patel,Australia,Oceania,  Charcoal Face Wash  ,Retail,96,49.58,4759.75
+ORD-10471,2022-04-17,liam patel,usa,North America,  Salicylic Acid Cleanser  ,  Distributor  ,13,48.04,624.54
+ORD-10205,2022-06-02,Ava Sharma,Australia,OCEANIA,,RETAIL,221,31.98,7066.65
+ORD-10231,2022-04-28,  Isabella Roy  ,India,Asia,Niacinamide Toner,Retail,410,17.04,6985.76
+ORD-10191,2022-01-06,Sophia Nair,USA,North America,Niacinamide Toner,wholesale,236,46.21,10904.55
+ORD-10458,2022-06-30,Sophia Nair,USA,North America,Face Sheet Masks,,440,42.05,18500.07
+ORD-10206,2022-04-01,OLIVIA D'SOUZA,New Zealand,OCEANIA,body butter cream,Retail,427,27.01,11533.13
+ORD-10261,2022-03-15,Ethan Reddy,India,Asia,HAIR REPAIR OIL,retail,66,43.68,2883.0
+ORD-10171,2022-04-17,liam patel,USA,North America,anti-aging serum,DISTRIBUTOR,482,43.35,20895.19
+ORD-10433,2022-06-24,Ethan Reddy,USA,North America,lip balm pack,Online,215,30.57,6571.56
+ORD-10383,2022-05-29,Ananya Gupta,USA,North America,salicylic acid cleanser,Wholesale,272,24.25,6595.83
+ORD-10057,2022-04-28,ananya gupta,INDIA,Asia,Salicylic Acid Cleanser,Wholesale,213,28.83,6141.45
+ORD-10149,2022-02-24,ethan reddy,India,Asia,VITAMIN C CREAM,distributor,37,19.32,715.01
+ORD-10242,2022-04-15,Ethan Reddy,Australia,oceania,HAIR REPAIR OIL,Distributor,481,49.85,0.0
+ORD-10088,2022-01-18,,United Kingdom,Europe,Hydrating Face Serum,ONLINE,465,30.38,14127.27
+ORD-10248,2022-04-11,Sophia Nair,Australia,OCEANIA,Vitamin C Cream,RETAIL,254,22.83,5797.63
+ORD-10091,2022-02-17,,New Zealand,oceania,,Retail,118,32.31,3812.92
+ORD-10098,2022-06-08,Isabella Roy,Canada,North America,BODY BUTTER CREAM,,234,45.5,10647.12
+ORD-10117,2022-05-23,NOAH MEHTA,UK,Europe,Lip Balm Pack,RETAIL,29,29.72,861.89
+ORD-90001,2022-01-19,Isabella Roy,Australia,Oceania,Anti-Aging Serum,  Retail  ,232,13.97,3241.7
+ORD-10415,2022-07-06,Ava Sharma,India,asia,under eye cream,Distributor,420,46.83,19667.38
+ORD-10410,2022-06-27,Lucas Verma,Australia,Oceania,BODY BUTTER CREAM,ONLINE,407,26.34,10719.97
+ORD-10214,"July 06, 2022",Mason Kapoor,AUSTRALIA,  Oceania  ,Lip Balm Pack,Distributor,186,24.42,4542.86
+ORD-10393,2022-04-17,Olivia D'Souza,New Zealand,Oceania,rose water toner,Online,274,30.6,8383.9
+ORD-10289,2022-05-21,Olivia D'Souza,AUSTRALIA,oceania,LIP BALM PACK,WHOLESALE,,16.4,3525.11
+ORD-10405,2022-05-21,Ethan Reddy,NEW ZEALAND,oceania,Tea Tree Moisturizer,Retail,164,25.71,4215.68
+ORD-10493,2022-02-17,Liam Patel,New Zealand,Oceania,hydrating face serum,Retail,317,22.51,7136.81
+ORD-10338,2022-07-25,Olivia D'Souza,Australia,Oceania,Aloe Vera Gel,Retail,225,49.32,11098.01
+ORD-10311,2022-05-09,SOPHIA NAIR,,OCEANIA,SPF 50 Sunscreen,wholesale,299,44.98,13449.54
+ORD-10226,2022-07-30,Liam Patel,Australia,oceania,Face Sheet Masks,  Wholesale  ,101,21.04,2124.81
+ORD-10090,2022-03-08,Noah Mehta,USA,North America,FACE SHEET MASKS,Wholesale,13,11.28,146.7
+ORD-10333,2022-03-26,,  Australia  ,Oceania,UNDER EYE CREAM,Online,491,15.22,7471.71
+ORD-10330,2022-03-26,Lucas Verma,UK,Europe,aloe vera gel,RETAIL,485,41.89,20317.26
+ORD-10480,2022-07-30,Noah Mehta,australia,Oceania,tea tree moisturizer,Wholesale,381,45.31,17263.64
+ORD-10374,2022-08-17,Liam Patel,UK,europe,Vitamin C Cream,online,386,45.63,17614.9
+ORD-10465,2022-05-23,isabella roy,  UK  ,Europe,Charcoal Face Wash,distributor,84,44.61,3747.41
+ORD-10015,2022-01-10,ava sharma,Canada,NORTH AMERICA,Salicylic Acid Cleanser,Wholesale,24,18.42,442.07
+ORD-10486,2022-06-10,lucas verma,canada,North America,Lip Balm Pack,Online,214,28.41,6080.02
+ORD-10336,2022-04-29,Mason Kapoor,USA,North America,Anti-Aging Serum,  Retail  ,181,46.4,8399.02
+ORD-10121,06-22-2022,Isabella Roy,Canada,NORTH AMERICA,Salicylic Acid Cleanser,Distributor,22,24.3,534.64
+ORD-10043,2022-03-25,ANANYA GUPTA,CANADA,North America,HAIR REPAIR OIL,Retail,150,21.72,3258.73
+ORD-10197,2022-04-27,Isabella Roy,australia,Oceania,face sheet masks,  Retail  ,103,,4260.44
+ORD-10034,2022-03-18,Noah Mehta,uk,  Europe  ,Face Sheet Masks,DISTRIBUTOR,217,38.39,8330.47
+ORD-10481,2022-05-13,ANANYA GUPTA,  New Zealand  ,Oceania,ALOE VERA GEL,Wholesale,320,32.59,10428.25
+ORD-10435,2022-05-27,lucas verma,UK,Europe,Lip Balm Pack,Online,85,24.81,2108.65
+ORD-10311,2022-05-09,SOPHIA NAIR,,OCEANIA,SPF 50 Sunscreen,wholesale,299,44.98,13449.54
+ORD-10339,2022-05-03,LUCAS VERMA,  Australia  ,Oceania,Body Butter Cream,ONLINE,426,46.83,19951.07
+ORD-10306,2022-08-11,Isabella Roy,India,Asia,Under Eye Cream,Online,42,41.46,1741.42
+ORD-10293,2022-08-05,Lucas Verma,australia,oceania,Charcoal Face Wash,Online,38,37.65,1430.77
+ORD-10017,2022-06-02,Ava Sharma,New Zealand,Oceania,Body Butter Cream,RETAIL,25,32.07,801.63
+ORD-10159,2022-04-28,Liam Patel,UK,EUROPE,tea tree moisturizer,Distributor,422,38.37,16191.56
+ORD-10244,2022-05-31,Noah Mehta,Canada,North America,vitamin c cream,Online,356,20.96,7460.34
+ORD-10067,2022-03-02,  Sophia Nair  ,India,asia,Aloe Vera Gel,Wholesale,325,35.25,11456.29
+ORD-10453,2022-02-07,Noah Mehta,Canada,North America,Aloe Vera Gel,  Retail  ,420,26.86,11279.43
+ORD-10448,2022-08-12,  Olivia D'Souza  ,uk,Europe,Salicylic Acid Cleanser,RETAIL,499,17.26,8614.76
+ORD-10120,2022-05-18,mason kapoor,uk,europe,Under Eye Cream,RETAIL,24,31.53,756.72
+ORD-10459,2022-04-26,Ava Sharma,CANADA,North America,Hydrating Face Serum,  Wholesale  ,307,33.22,10197.24
+ORD-10066,2022-06-18,ISABELLA ROY,Australia,OCEANIA,spf 50 sunscreen,Wholesale,244,13.71,3344.35
+ORD-10476,2022-07-09,Ethan Reddy,india ,Asia,Anti-Aging Serum,Retail,484,25.86,12516.29
+ORD-10010,"May 16, 2022",noah mehta,India,asia,  Aloe Vera Gel  ,  Wholesale  ,176,31.29,5507.19
+ORD-10019,2022-05-29,Sophia Nair,Canada,North America,Vitamin C Cream,Online,417,15.83,6600.15
+ORD-10154,2022-08-03,Lucas Verma,Australia,Oceania,charcoal face wash,  Wholesale  ,354,18.98,6717.5
+ORD-10304,2022-06-03,Sophia Nair,new zealand,Oceania,Lip Balm Pack,DISTRIBUTOR,477,33.64,16045.86
+ORD-10257,2022-08-16,sophia nair,new zealand,Oceania,Aloe Vera Gel,Retail,119,19.63,2336.36
+ORD-10378,2022-05-21,AVA SHARMA,UK,europe,under eye cream,Retail,193,42.92,8283.67
+ORD-10273,2022-06-07,OLIVIA D'SOUZA,India,  Asia  ,Face Sheet Masks,Distributor,498,25.91,"$12,905.06"
+ORD-10134,2022-05-07,  Noah Mehta  ,India,Asia,Hair Repair Oil,Retail,140,36.02,5042.61
+ORD-10414,2022-03-07,Lucas Verma,USA,North America,Face Sheet Masks,  Retail  ,354,14.76,5224.38
+ORD-10254,2022-04-13,  Olivia D'Souza  ,australia,oceania,Hair Repair Oil,retail,270,12.36,3335.93
+ORD-10271,2022-07-13,  Mason Kapoor  ,USA,NORTH AMERICA,VITAMIN C CREAM,Online,190,45.16,8581.27
+ORD-10162,2022-08-20,Ethan Reddy,India,ASIA,under eye cream,  Online  ,138,12.76,1761.2
+ORD-10287,2022-02-26,ANANYA GUPTA,australia,  Oceania  ,CHARCOAL FACE WASH,Retail,74,46.8,3463.01
+ORD-10363,2022-04-02,ISABELLA ROY,  Canada  ,North America,,Retail,422,33.45,14114.16
+ORD-10342,2022-07-29,NOAH MEHTA,USA,  North America  ,rose water toner,Distributor,265,29.12,7718.1
+ORD-10347,"January 27, 2022",  Lucas Verma  ,Canada,  North America  ,Hair Repair Oil,distributor,451,43.43,19586.58
+ORD-10480,2022-07-30,Noah Mehta,australia,Oceania,tea tree moisturizer,Wholesale,381,45.31,17263.64
+ORD-10002,2022-01-25,Ethan Reddy,UK,Europe,  Aloe Vera Gel  ,ONLINE,449,36.47,16376.88
+ORD-10225,2022-05-26,,New Zealand,Oceania,hair repair oil,RETAIL,16,25.72,411.5
+ORD-10208,2022-06-09,SOPHIA NAIR,USA,North America,face sheet masks,online,15,,444.44
+ord10118,11/03/2022,AVA SHARMA,australia,Oceania,Vitamin C Cream,Wholesale,360,16.8,6048.32
+ORD-10434,"February 12, 2022",  Lucas Verma  ,New Zealand,Oceania,Aloe Vera Gel,distributor,118,46.89,5532.45
+ORD-10361,"June 21, 2022",Olivia D'Souza,uk,Europe,rose water toner,Online,482,47.91,23090.87
+ORD-10369,2022-07-26,Lucas Verma,USA,North America,spf 50 sunscreen,retail,21,47.84,1004.71
+ORD-10265,2022-02-07,ananya gupta,USA,NORTH AMERICA,Hair Repair Oil,Online,30,-5.0,352.92
+ORD-10275,2022-05-29,ananya gupta,India,Asia,salicylic acid cleanser,Retail,148,21.06,3116.98
+ORD-10071,2022-05-22,ananya gupta,  UK  ,EUROPE,,  Retail  ,107,42.35,-100.0
+ORD-10129,2022-06-10,Lucas Verma,New Zealand,Oceania,,Retail,161,19.97,3214.37
+ORD-10409,2022-07-24,Ananya Gupta,  India  ,Asia,Anti-Aging Serum,wholesale,124,29.24,3626.23
+ORD-10099,06-03-2022,Olivia D'Souza,Australia,Oceania,SPF 50 Sunscreen,Distributor,49,31.94,1564.91
+ORD-10373,2022-08-16,Sophia Nair,New Zealand,Oceania,salicylic acid cleanser,Retail,19,41.16,782.09
+ORD-10022,2022-07-17,Noah Mehta,Canada,  North America  ,hydrating face serum,wholesale,211,11.23,2369.18
+ORD-10194,2022-03-24,Mason Kapoor,Australia,Oceania,Charcoal Face Wash,WHOLESALE,80,49.72,3977.2
+ORD-10006,2022-08-27,Ananya Gupta,  UK  ,EUROPE,Lip Balm Pack,Retail,192,13.31,2555.95
+ORD-10424,2022-01-26,  Olivia D'Souza  ,New Zealand,Oceania,SPF 50 Sunscreen,,79,12.11,957.07
+ORD-10314,2022-07-10,Ananya Gupta,Australia,Oceania,lip balm pack,Online,237,38.34,9085.51
+ORD-10136,2022-03-16,Mason Kapoor,USA,NORTH AMERICA,Charcoal Face Wash,Retail,498,27.98,13934.58
+ORD-10446,2022-04-24,,NEW ZEALAND,oceania,Salicylic Acid Cleanser,distributor,284,41.46,11775.5
+ORD-10385,2022-06-15,Ava Sharma,  UK  ,europe,Vitamin C Cream,  Retail  ,456,36.06,16445.03
+ORD-10328,2022-05-24,  Ethan Reddy  ,NEW ZEALAND,Oceania,  Under Eye Cream  ,retail,488,39.19,19125.15
+ORD-10199,"March 31, 2022",Ethan Reddy,Australia,Oceania,Body Butter Cream,DISTRIBUTOR,469,39.96,18742.38
+ORD-10494,2022-03-10,Mason Kapoor,Australia,Oceania,VITAMIN C CREAM,ONLINE,225,22.34,5026.89
+ORD-10204,2022-01-30,Lucas Verma,UK,europe,Under Eye Cream,Retail,152,38.99,5926.16
+ORD-10068,2022-04-19,AVA SHARMA,India,Asia,hair repair oil,Retail,434,20.61,8946.01
+ORD-10224,2022-02-22,ava sharma,USA,North America,Rose Water Toner,DISTRIBUTOR,486,32.32,15708.48
+ORD-10128,2022-07-07,lucas verma,India,Asia,Tea Tree Moisturizer,Retail,425,39.1,16619.54
+ORD-10144,2022-07-31,Olivia D'Souza,Australia,  Oceania  ,Aloe Vera Gel,Distributor,152,14.48,2200.4
+ORD-10327,2022-03-24,ethan reddy,New Zealand,Oceania,ALOE VERA GEL,online,240,34.13,8190.32
+ORD-10140,2022-05-19,Mason Kapoor,Canada,North America,Anti-Aging Serum,Online,,20.56,329.0
+ORD-10219,2022-05-15,Sophia Nair,USA,North America,Salicylic Acid Cleanser,Wholesale,144,36.76,5293.89
+ORD-10387,2022-07-04,Mason Kapoor,new zealand,Oceania,anti-aging serum,Online,242,34.7,8397.22
+ORD-10331,2022-08-07,Mason Kapoor,NEW ZEALAND,  Oceania  ,Rose Water Toner,online,320,30.9,"$9,887.34"
+ORD-10158,2022-07-23,OLIVIA D'SOUZA,India,Asia,Hair Repair Oil,DISTRIBUTOR,80,15.32,1225.41
+ORD-10095,2022-04-13,Lucas Verma,USA,NORTH AMERICA,Tea Tree Moisturizer,RETAIL,385,43.8,16861.45
+ORD-10256,2022-03-05,LIAM PATEL,Australia,Oceania,Charcoal Face Wash,,145,22.91,3321.69
+ORD-10482,2022-02-09,Sophia Nair,UK,Europe,Niacinamide Toner,  Retail  ,23,16.67,383.51
+ORD-10132,03-15-2022,Isabella Roy,NEW ZEALAND,Oceania,SPF 50 SUNSCREEN,Retail,478,43.22,20659.54
+ord10227,2022-01-12,Noah Mehta,  Australia  ,Oceania,Vitamin C Cream,  Online  ,32,30.77,984.79
+ORD-10040,2022-03-25,Lucas Verma,  Australia  ,Oceania,Tea Tree Moisturizer,wholesale,246,38.02,9353.99
+ORD-10490,2022-02-10,Lucas Verma,Australia,Oceania,Face Sheet Masks,RETAIL,415,21.82,9056.95
+ORD-10341,2022-01-02,Sophia Nair,USA,north america,ANTI-AGING SERUM,Retail,377,33.29,12551.57
+ORD-10190,2022-04-02,  Isabella Roy  ,  USA  ,North America,Hair Repair Oil,Online,485,33.7,16343.94
+ORD-10455,2022-08-25,  Sophia Nair  ,New Zealand,Oceania,SPF 50 Sunscreen,Distributor,227,38.57,8756.31
+ORD-10442,2022-03-22,liam patel,UK,Europe,Rose Water Toner,retail,426,40.25,17146.06
+ORD-10249,2022-03-19,Sophia Nair,India,asia,  Anti-Aging Serum  ,Retail,441,23.75,10473.97
+ORD-10039,20/03/2022,Mason Kapoor,australia,Oceania,,online,,26.87,13379.16
+ORD-10243,2022-08-25,Liam Patel,New Zealand,Oceania,Charcoal Face Wash,Distributor,161,31.25,5031.06
+ORD-10354,2022-03-20,Lucas Verma,Australia,Oceania,Hair Repair Oil,Retail,269,42.17,"$11,343.37"
+ORD-10461,2022-06-18,,Canada,north america,Hydrating Face Serum,RETAIL,172,54.06,9298.09
+ORD-10139,2022-01-27,Olivia D'Souza,usa,North America,Hair Repair Oil,Online,499,15.68,7825.06
+ORD-10023,2022-05-14,Sophia Nair,UK,  Europe  ,aloe vera gel,Online,358,45.86,16418.97
+ORD-10160,01/05/2022,Olivia D'Souza,  New Zealand  ,Oceania,LIP BALM PACK,retail,364,27.73,10095.38
+ORD-10026,2022-07-22,OLIVIA D'SOUZA,USA,North America,Tea Tree Moisturizer,Wholesale,74,16.15,1194.96
+ORD-10184,2022-03-28,Liam Patel,India,ASIA,vitamin c cream,,189,15.6,2948.69
+ORD-10241,2022-01-06,Ananya Gupta,Australia,Oceania,Aloe Vera Gel,Retail,286,14.54,4158.5
+ORD-10014,2022-07-26,Lucas Verma,New Zealand,  Oceania  ,Aloe Vera Gel,Retail,79,11.69,923.46
+ORD-10146,2022-02-26,Lucas Verma,usa,North America,  Body Butter Cream  ,Online,440,37.39,16452.13
+ORD-10417,"June 18, 2022",Ethan Reddy,india,ASIA,TEA TREE MOISTURIZER,,325,35.36,11492.19
+ORD-10390,2022-07-14,Ethan Reddy,india,Asia,Tea Tree Moisturizer,retail,363,22.77,8264.6
+ORD-10315,2022-06-27,Olivia D'Souza,USA,north america,Anti-Aging Serum,Online,423,27.29,11544.08
+ORD-10362,2022-06-11,Ananya Gupta,Australia,oceania,Anti-Aging Serum,Wholesale,273,48.68,"$13,289.99"
+ORD-10079,06-29-2022,Noah Mehta,Australia,OCEANIA,Hydrating Face Serum,Wholesale,237,35.51,8416.43
+ORD-10321,2022-05-02,Ananya Gupta,New Zealand,Oceania,FACE SHEET MASKS,DISTRIBUTOR,314,37.34,11725.2
+ORD-10426,2022-07-17,Ava Sharma,australia,Oceania,face sheet masks,Distributor,126,45.55,5739.23
+ORD-90000,2022-08-13,Mason Kapoor,Australia,Oceania,  Vitamin C Cream  ,online,475,33.76,16037.03
+ORD-10398,2022-04-29,ISABELLA ROY,UK,EUROPE,ROSE WATER TONER,online,499,12.29,6131.84
+ORD-10053,2022-02-02,Ananya Gupta,New Zealand,  Oceania  ,Body Butter Cream,ONLINE,438,37.4,16383.31
+ORD-10466,2022-08-26,Olivia D'Souza,Canada,North America,Face Sheet Masks,  Online  ,316,26.87,8489.67
+ORD-10035,2022-06-19,Mason Kapoor,New Zealand,Oceania,Rose Water Toner,Online,290,18.57,5384.2
+ORD-10335,2022-06-02,Olivia D'Souza,UK,Europe,SALICYLIC ACID CLEANSER,DISTRIBUTOR,282,46.29,13053.64
+ORD-10497,2022-07-27,Mason Kapoor,Australia,Oceania,Hair Repair Oil,RETAIL,386,33.11,12778.71
+ORD-10377,2022-05-19,Sophia Nair,uk,Europe,under eye cream,Retail,131,24.33,3186.99
+ORD-10185,2022-04-19,ethan reddy,Canada,North America,Under Eye Cream,Distributor,463,43.13,19971.42
+ORD-10312,2022-07-27,  Ananya Gupta  ,  New Zealand  ,Oceania,NIACINAMIDE TONER,Online,305,43.34,13220.1
+ORD-10326,2022-05-04,  Olivia D'Souza  ,australia,  Oceania  ,Under Eye Cream,Retail,491,33.35,16375.54
+ORD-10188,2022-02-21,ETHAN REDDY,australia,Oceania,Tea Tree Moisturizer,online,,31.15,7881.92
+ORD-10285,2022-04-18,Ethan Reddy,  New Zealand  ,oceania,  Body Butter Cream  ,online,,16.55,5873.54
+ORD-10392,2022-05-14,  Ethan Reddy  ,UK,europe,vitamin c cream,online,442,23.04,10184.89
+ORD-10388,2022-05-23,Liam Patel,India,Asia,Face Sheet Masks,Distributor,476,36.07,17167.2
+ORD-10470,2022-01-29,  Liam Patel  ,  New Zealand  ,  Oceania  ,  Charcoal Face Wash  ,DISTRIBUTOR,27,29.41,793.99
+ORD-10166,2022-02-27,NOAH MEHTA,UK,Europe,  Vitamin C Cream  ,Online,215,30.38,6530.73
+ORD-10404,2022-07-17,,New Zealand,Oceania,Hydrating Face Serum,  Distributor  ,322,49.63,15981.85
+ORD-10299,2022-07-26,Ananya Gupta,  USA  ,North America,anti-aging serum,Retail,400,23.01,9203.38
+ORD-10024,2022-01-15,olivia d'souza,new zealand,Oceania,  Vitamin C Cream  ,Retail,226,47.68,10774.83
+ORD-10477,2022-03-02,Lucas Verma,Canada,North America,ANTI-AGING SERUM,Retail,250,16.39,4097.8
+ORD-10348,2022-07-11,Lucas Verma,  Canada  ,north america,under eye cream,Retail,40,47.63,"$1,905.06"
+ORD-10431,2022-04-03,Ethan Reddy,India,Asia,Tea Tree Moisturizer,Distributor,335,27.05,9060.74
+ORD-10183,2022-03-19,Ethan Reddy,USA,NORTH AMERICA,Anti-Aging Serum,  Online  ,43,14.81,636.78
+ORD-10344,2022-01-06,  Ethan Reddy  ,Australia,oceania,Niacinamide Toner,Retail,69,23.44,1617.05
+ORD-10042,2022-01-09,mason kapoor,uk,  Europe  ,lip balm pack,distributor,103,29.53,3041.08
+ORD-10357,2022-07-31,sophia nair,Canada,  North America  ,hair repair oil,Distributor,133,37.79,5025.69
+ORD-10237,2022-01-20,  Noah Mehta  ,USA,north america,Tea Tree Moisturizer,DISTRIBUTOR,0,31.18,14282.35
+ORD-10439,2022-06-20,Mason Kapoor,Canada,north america,Salicylic Acid Cleanser,Distributor,156,27.18,4240.74
+ORD-10351,"February 10, 2022",  Olivia D'Souza  ,uk,Europe,Vitamin C Cream,Online,409,49.34,20181.0
+ORD-10076,2022-07-09,Noah Mehta,  Canada  ,North America,face sheet masks,Retail,285,46.3,13195.0
+ORD-10032,2022-07-10,  Mason Kapoor  ,UK,Europe,Body Butter Cream,distributor,340,37.9,12885.94
+ORD-10350,2022-04-19,Isabella Roy,UK,europe,TEA TREE MOISTURIZER,Wholesale,236,32.54,7678.26
+ORD-10046,2022-03-31,ananya gupta,India,asia,Rose Water Toner,Wholesale,102,24.74,2523.86
+ORD-10475,2022-08-01,Noah Mehta,UK,Europe,lip balm pack,Distributor,114,22.51,2566.51
+ORD-10109,2022-03-30,,Australia,OCEANIA,Face Sheet Masks,  Online  ,401,45.0,18046.13
+ORD-10106,2022-02-08,liam patel,usa,North America,Hydrating Face Serum,Retail,295,15.13,4463.32
+ORD-10150,2022-03-01,  Ananya Gupta  ,CANADA,North America,Salicylic Acid Cleanser,Retail,197,28.93,5699.19
+ORD-10030,2022-01-13,mason kapoor,uk,Europe,under eye cream,Retail,57,24.47,1394.62
+ORD-10182,2022-05-29,Olivia D'Souza,UK,europe,  Tea Tree Moisturizer  ,Online,164,30.59,5016.53
+ORD-10110,2022-05-18,Mason Kapoor,  USA  ,North America,ALOE VERA GEL,Retail,46,18.89,868.92
+ORD-10420,2022-06-16,LUCAS VERMA,USA,North America,  Tea Tree Moisturizer  ,online,345,17.13,5909.34
+ORD-10123,2022-05-18,Liam Patel,India,ASIA,FACE SHEET MASKS,online,354,42.76,15136.25
+ORD-10479,2022-04-27,Ananya Gupta,  New Zealand  ,Oceania,Hydrating Face Serum,Online,157,28.1,4412.34
+ORD-10105,08-06-2022,Olivia D'Souza,uk,Europe,Aloe Vera Gel,retail,471,14.12,$-100.00
+ORD-10061,2022-04-08,NOAH MEHTA,New Zealand,  Oceania  ,body butter cream,  Online  ,331,32.36,10711.79
+ORD-10147,2022-07-02,Noah Mehta,INDIA,  Asia  ,lip balm pack,Online,306,24.07,7364.22
+ORD-10084,2022-02-23,AVA SHARMA,Canada,North America,Hydrating Face Serum,Online,324,32.4,10497.39
+ORD-10316,2022-04-23,olivia d'souza,USA,North America,Vitamin C Cream,Retail,297,42.38,12587.78
+ORD-10382,2022-03-20,Ava Sharma,New Zealand,Oceania,Niacinamide Toner,Online,15,35.87,538.09
+ORD-10423,2022-02-05,Liam Patel,USA,North America,Tea Tree Moisturizer,RETAIL,412,32.89,13550.72
+ORD-10440,2022-01-11,ANANYA GUPTA,India,ASIA,  Rose Water Toner  ,Retail,486,14.88,7233.37
+ord10228,2022-04-26,Ananya Gupta,NEW ZEALAND,  Oceania  ,HYDRATING FACE SERUM,Online,327,39.91,13049.1
+ORD-10499,2022-08-18,Ethan Reddy,INDIA,asia,Anti-Aging Serum,Online,215,35.58,7648.63
+ORD-10152,2022-01-01,Sophia Nair,Australia,Oceania,  Hair Repair Oil  ,WHOLESALE,253,39.54,10002.88
+ORD-10001,2022-04-30,Lucas Verma,Canada,North America,ALOE VERA GEL,ONLINE,358,22.06,7897.13
+ORD-10268,2022-06-26,ANANYA GUPTA,USA,NORTH AMERICA,Face Sheet Masks,wholesale,154,32.62,5022.76
+ORD-10451,2022-07-10,Isabella Roy,India,asia,SPF 50 Sunscreen,DISTRIBUTOR,380,18.18,6907.58
+ORD-10089,2022-03-25,OLIVIA D'SOUZA,USA,NORTH AMERICA,Aloe Vera Gel,RETAIL,218,23.63,5150.27
+ORD-10078,2022-08-30,OLIVIA D'SOUZA,Canada,North America,Salicylic Acid Cleanser,Wholesale,146,41.8,6102.47
+ORD-10269,2022-08-18,ANANYA GUPTA,New Zealand,Oceania,Lip Balm Pack,,299,17.56,5250.58
+ORD-10418,2022-05-12,Lucas Verma,New Zealand,Oceania,Hair Repair Oil,Retail,28,14.49,405.84
+ORD-10124,2022-03-28,Liam Patel,uk,Europe,face sheet masks,RETAIL,31,18.72,580.35
+ORD-10298,2022-03-27,sophia nair,India,asia,VITAMIN C CREAM,Online,314,35.98,11297.48
+ORD-10370,2022-05-30,Liam Patel,Australia,oceania,  Vitamin C Cream  ,WHOLESALE,371,15.03,5575.62
+ord10096,2022-08-17,Lucas Verma,New Zealand,  Oceania  ,salicylic acid cleanser,DISTRIBUTOR,72,22.93,1650.87
+ORD-10496,2022-01-13,Ananya Gupta,UK,europe,Aloe Vera Gel,Distributor,30,32.13,963.98
+ORD-10012,2022-06-02,Sophia Nair,  USA  ,north america,Face Sheet Masks,distributor,384,,6853.59
+ORD-10115,2022-01-28,Lucas Verma,  USA  ,NORTH AMERICA,aloe vera gel,Distributor,126,47.65,6004.2
+ORD-10332,2022-07-31,Sophia Nair,Canada ,North America,anti-aging serum,Retail,276,29.69,8194.42
+ORD-10429,2022-05-27,SOPHIA NAIR,New Zealand,Oceania,spf 50 sunscreen,Online,139,29.2,4058.97
+ORD-10258,2022-04-15,Noah Mehta,usa,North America,Hydrating Face Serum,Online,420,46.29,19443.77
+ORD-10220,2022-01-24,noah mehta,USA,North America,UNDER EYE CREAM,Retail,181,17.49,3165.41
+ORD-10438,2022-08-09,ISABELLA ROY,New Zealand,Oceania,Face Sheet Masks,Retail,282,23.48,6621.55
+ORD-10253,2022-03-30,Lucas Verma,Australia,oceania,Anti-Aging Serum,Retail,357,17.07,6093.04
+ORD-10353,2022-08-01,Liam Patel,UK,EUROPE,Face Sheet Masks,,444,42.26,18763.82
+ORD-10488,2022-05-03,ANANYA GUPTA,Australia,Oceania,SALICYLIC ACID CLEANSER,Wholesale,44,36.21,1593.18
+ORD-10262,01-08-2022,Mason Kapoor,New Zealand,OCEANIA,charcoal face wash,  Wholesale  ,66,39.3,2593.64
+ORD-10444,,Noah Mehta,uk,Europe,Under Eye Cream,Retail,163,29.34,4781.76
+ORD-10179,2022-01-10,  Lucas Verma  ,USA,North America,,online,115,23.9,2747.98
+ORD-10411,2022-03-18,  Ava Sharma  ,Canada,North America,Face Sheet Masks,online,66,34.65,2287.14
+ORD-10279,2022-07-22,SOPHIA NAIR,New Zealand,Oceania,Aloe Vera Gel,Retail,476,14.06,6693.75
+ORD-10020,2022-05-28,lucas verma,USA,north america,Niacinamide Toner,DISTRIBUTOR,258,20.55,5302.98
+ORD-10356,2022-03-17,  Ava Sharma  ,  USA  ,  North America  ,charcoal face wash,WHOLESALE,204,49.37,10071.75
+ORD-10170,2022-03-24,LUCAS VERMA,  Canada  ,North America,LIP BALM PACK,distributor,237,19.21,4553.78
+ORD-10240,2022-05-04,ANANYA GUPTA,UK,europe,Hydrating Face Serum,distributor,351,30.98,10872.5
+ORD-10278,2022-01-25,  Mason Kapoor  ,USA,NORTH AMERICA,rose water toner,RETAIL,317,,8484.94
+ORD-10161,2022-03-24,Ava Sharma,USA,north america,  Lip Balm Pack  ,distributor,335,26.57,8901.98
+ORD-10074,2022-08-12,Noah Mehta,uk,europe,Body Butter Cream,RETAIL,202,18.82,-100.0
+ORD-10018,2022-03-03,Isabella Roy,India,Asia,Aloe Vera Gel,Online,251,40.25,10101.78
+ORD-10063,2022-07-25,Ava Sharma,NEW ZEALAND,Oceania,Tea Tree Moisturizer,Retail,454,11.3,5132.41
+ORD-10250,2022-07-15,Isabella Roy,Canada,  North America  ,Hair Repair Oil,Retail,33,41.6,1372.66
+ord10229,2022-06-29,  Olivia D'Souza  ,INDIA,Asia,body butter cream,Online,21,45.54,956.42
+ORD-10239,2022-02-17,Ethan Reddy,Canada,North America,Hydrating Face Serum,Retail,338,16.28,5503.98
+ORD-10230,2022-04-15,Ananya Gupta,New Zealand,Oceania,spf 50 sunscreen,Retail,337,16.95,5712.21
+ORD-10319,2022-02-18,Olivia D'Souza,New Zealand,oceania,Under Eye Cream,Wholesale,472,35.81,16902.63
+ORD-10284,2022-03-24,Ethan Reddy,New Zealand,Oceania,Anti-Aging Serum,retail,436,49.83,21726.67
+ord10048,2022-05-27,Liam Patel,New Zealand,Oceania,SPF 50 Sunscreen,Distributor,331,47.15,15606.61
+ORD-10251,2022-03-03,ISABELLA ROY,New Zealand,  Oceania  ,SPF 50 Sunscreen,Wholesale,,34.28,
+ORD-10080,2022-05-22,isabella roy,Canada,north america,under eye cream,  Retail  ,334,24.6,8215.87
+ORD-10296,2022-02-11,mason kapoor,New Zealand,OCEANIA,Hydrating Face Serum,Distributor,141,26.26,3703.09
+ORD-10495,2022-08-23,Lucas Verma,Canada,NORTH AMERICA,FACE SHEET MASKS,  Retail  ,414,41.6,17222.91
+ORD-10021,2022-08-02,  Noah Mehta  ,UK,Europe,under eye cream,  Retail  ,257,24.55,6310.09
+ORD-10457,2022-05-22,  Isabella Roy  ,Canada,NORTH AMERICA,Salicylic Acid Cleanser,Wholesale,482,45.81,
+ORD-10425,2022-07-20,olivia d'souza,uk,Europe,Charcoal Face Wash,Online,438,34.7,15197.86
+ORD-10141,2022-07-04,Isabella Roy,australia,  Oceania  ,Rose Water Toner,Retail,191,36.72,7014.04
+ORD-10193,2022-01-18,olivia d'souza,New Zealand,  Oceania  ,Under Eye Cream,Retail,140,41.22,5771.22
+ORD-10131,2022-03-30,  Lucas Verma  ,usa,  North America  ,Charcoal Face Wash,retail,299,21.59,6455.88
+ORD-10216,2022-02-22,Liam Patel,USA,north america,Anti-Aging Serum,online,124,,4013.93
+ORD-10245,2022-07-08,Ethan Reddy,USA,North America,NIACINAMIDE TONER,Online,186,35.55,6613.2
+ORD-10364,2022-03-14,LIAM PATEL,Australia,Oceania,charcoal face wash,Distributor,251,12.21,3064.72
+ORD-10487,2022-03-01,NOAH MEHTA,USA,North America,Hair Repair Oil,Wholesale,309,10.05,3106.85
+ORD-10060,2022-04-25,Sophia Nair,UK,  Europe  ,SPF 50 Sunscreen,  Online  ,30,14.15,424.38
+ORD-10222,2022-06-12,  Ananya Gupta  ,uk,Europe,Tea Tree Moisturizer,,211,20.48,4320.88
+ORD-10177,2022-04-30,Lucas Verma,uk,Europe,Body Butter Cream,Retail,167,13.71,2289.16
+ORD-10450,17/01/2022,  Noah Mehta  ,uk,Europe,Salicylic Acid Cleanser,Online,456,35.23,16062.87
+ORD-10498,2022-02-22,Ethan Reddy,new zealand,Oceania,body butter cream,Online,359,15.36,5512.54
+ORD-10056,2022-06-24,NOAH MEHTA,UK,Europe,Hydrating Face Serum,  Online  ,29,31.81,922.43
+ORD-10292,2022-01-28,  Isabella Roy  ,Australia,Oceania,Vitamin C Cream,retail,39,25.15,980.84
+ORD-10255,2022-06-11,Isabella Roy,U.S.A.,North America,LIP BALM PACK,Retail,384,39.4,15130.24
+ORD-10408,2022-05-12,ava sharma,New Zealand,Oceania,  Anti-Aging Serum  ,Retail,18,45.22,814.03
+ORD-10386,2022-07-02,AVA SHARMA,India,ASIA,  Under Eye Cream  ,retail,265,30.7,8134.54
+ORD-10437,2022-02-14,Ananya Gupta,India,Asia,Anti-Aging Serum,ONLINE,334,25.89,8646.58
+ORD-10198,2022-03-14,AVA SHARMA,India,  Asia  ,rose water toner,Online,159,47.61,"$7,570.61"
+ORD-10069,2022-01-16,  Ananya Gupta  ,AUSTRALIA,Oceania,Hair Repair Oil,Retail,360,42.0,15120.74
+ORD-10211,2022-08-12,MASON KAPOOR,Canada,North America,Tea Tree Moisturizer,WHOLESALE,,44.1,7408.06
+ORD-10233,2022-01-22,olivia d'souza,USA,North America,lip balm pack,RETAIL,321,14.79,4746.86
+ORD-10202,2022-05-06,Lucas Verma,INDIA,Asia,Aloe Vera Gel,ONLINE,436,24.75,10789.63
+ORD-10169,2022-06-12,Olivia D'Souza,Australia,Oceania,Hair Repair Oil,Online,352,19.25,6775.0
+ORD-10186,2022-06-18,ava sharma,AUSTRALIA,Oceania,salicylic acid cleanser,Retail,439,18.72,8218.19
+ORD-10036,2022-03-07,Ava Sharma,INDIA,  Asia  ,Hydrating Face Serum,,450,43.54,
